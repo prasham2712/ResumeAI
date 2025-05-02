@@ -11,7 +11,6 @@ The Resume Analyzer Chatbot is an AI-powered tool designed to assist job seekers
 
 ## *Files*  
 - **ResumeAnalyzerChatbot.ipynb**: Jupyter notebook with the full implementation, including code for resume analysis, fit score calculation, and cover letter generation.
-- **requirements.txt**: List of Python dependencies for the project.
 - **Readme.pdf**: Overview and setup instructions for using the chatbot.
 
 ## *Technologies Used*  
